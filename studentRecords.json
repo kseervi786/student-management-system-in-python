@@ -1,0 +1,40 @@
+{
+  "1": "This Record is Deleted from System",
+  "2": {
+    "session": "2020-21",
+    "first_name": "sb",
+    "last_name": "rs",
+    "class": "1",
+    "section": "A",
+    "gender": "Male",
+    "father": "sang",
+    "mother": "rih",
+    "mobile": "980546567",
+    "address": "dxd"
+  },
+  "3": "This Record is Deleted from System",
+  "4": {
+    "session": "2020-21",
+    "first_name": "kisan",
+    "last_name": "patel",
+    "class": "10",
+    "section": "A",
+    "gender": "Male",
+    "father": "kisa",
+    "mother": "miss",
+    "mobile": "9696969696",
+    "address": "pali"
+  },
+  "5": {
+    "session": "2021-22",
+    "first_name": "king",
+    "last_name": "khan",
+    "class": "12",
+    "section": "A",
+    "gender": "Male",
+    "father": "khan",
+    "mother": "queen",
+    "mobile": "9632458752",
+    "address": "jalor"
+  }
+}
